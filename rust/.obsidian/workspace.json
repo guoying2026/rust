@@ -1,0 +1,190 @@
+{
+  "main": {
+    "id": "490719c7f86e9c82",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0137b65d372c71a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c12d8b6de739dba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Welcome.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3c31e5f38ef98afd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "突破5道关卡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "688a43d67eb4ea54",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "突破5道关卡.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3f1f6756c83831f1",
+    "type": "split",
+    "children": [
+      {
+        "id": "12c3c62179d6f77d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be25b38a660236b2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "1863594deeb5c2db",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "602b88f31cf80973",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "87890f6986ddf9a6",
+    "type": "split",
+    "children": [
+      {
+        "id": "127d2c0fd748afc1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8abaacb18f7b4501",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "突破5道关卡.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "59de94dc69cf4d79",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "突破5道关卡.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "6b3845e9f5360831",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "afe73873a66bf792",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "突破5道关卡.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false
+    }
+  },
+  "active": "688a43d67eb4ea54",
+  "lastOpenFiles": [
+    "Pasted image 20240509233143.png",
+    "Pasted image 20240509232740.png",
+    "Pasted image 20240509230730.png",
+    "Pasted image 20240509230545.png",
+    "Pasted image 20240509230203.png",
+    "Pasted image 20240509230118.png",
+    "Pasted image 20240509230023.png",
+    "Pasted image 20240509225957.png",
+    "Pasted image 20240509225840.png",
+    "Pasted image 20240509225613.png",
+    "Pasted image 20240509225446.png",
+    "Welcome.md",
+    "突破5道关卡.md"
+  ]
+}
