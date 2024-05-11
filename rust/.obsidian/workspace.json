@@ -6,19 +6,8 @@
       {
         "id": "f0137b65d372c71a",
         "type": "tabs",
+        "dimension": 50,
         "children": [
-          {
-            "id": "c12d8b6de739dba4",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Welcome.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
           {
             "id": "3c31e5f38ef98afd",
             "type": "leaf",
@@ -37,14 +26,32 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "突破5道关卡.md",
+                "file": "总结性记忆.md",
+                "mode": "preview",
+                "source": false
+              }
+            }
+          }
+        ]
+      },
+      {
+        "id": "d14c8a88622d6b75",
+        "type": "tabs",
+        "dimension": 50,
+        "children": [
+          {
+            "id": "c12d8b6de739dba4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "总结性记忆.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -171,21 +178,20 @@
       "command-palette:打开命令面板": false
     }
   },
-  "active": "be25b38a660236b2",
+  "active": "3c31e5f38ef98afd",
   "lastOpenFiles": [
-    "attachments/Pasted image 20240509233143.png",
-    "attachments/Pasted image 20240509151450.png",
+    "总结性记忆.md",
     "突破5道关卡.md",
-    "attachments/Pasted image 20240509151402.png",
-    "attachments/Pasted image 20240509234559.png",
-    "attachments/Pasted image 20240509151230.png",
-    "attachments",
-    "attachments/Pasted image 20240509232740.png",
-    "attachments/Pasted image 20240509230730.png",
-    "attachments/Pasted image 20240509230545.png",
-    "attachments/Pasted image 20240509230203.png",
-    "attachments/Pasted image 20240509230118.png",
-    "attachments/Pasted image 20240509230023.png",
-    "Welcome.md"
+    "attachments/Pasted image 20240510230245.png",
+    "attachments/Pasted image 20240510230207.png",
+    "attachments/Pasted image 20240510225724.png",
+    "attachments/Pasted image 20240510224836.png",
+    "attachments/Pasted image 20240510224725.png",
+    "attachments/Pasted image 20240510224619.png",
+    "attachments/Pasted image 20240510224356.png",
+    "attachments/Pasted image 20240510223937.png",
+    "attachments/Pasted image 20240510222826.png",
+    "attachments/Pasted image 20240510222717.png",
+    "attachments"
   ]
 }
