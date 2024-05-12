@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "dc2880a0152dc65b",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20240512162328.png"
+              }
+            }
+          },
+          {
             "id": "2a927d0980ab7e4f",
             "type": "leaf",
             "state": {
@@ -171,19 +181,18 @@
   },
   "active": "3c31e5f38ef98afd",
   "lastOpenFiles": [
+    "attachments/Pasted image 20240512162328.png",
+    "突破5道关卡.md",
+    "attachments/Pasted image 20240512162222.png",
+    "attachments/Pasted image 20240512161141.png",
     "attachments/Pasted image 20240512160656.png",
     "attachments/Pasted image 20240512160417.png",
     "总结性记忆.md",
-    "突破5道关卡.md",
     "attachments/Pasted image 20240512150645.png",
     "attachments/Pasted image 20240512150625.png",
     "attachments/Pasted image 20240512150516.png",
     "attachments/Pasted image 20240512150306.png",
     "attachments/Pasted image 20240512150024.png",
-    "attachments/Pasted image 20240512144925.png",
-    "attachments/Pasted image 20240512144822.png",
-    "attachments/Pasted image 20240512144806.png",
-    "attachments/Pasted image 20240512144250.png",
     "attachments"
   ]
 }
