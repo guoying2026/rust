@@ -20,6 +20,16 @@
             }
           },
           {
+            "id": "3fb544f404cc52cc",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "attachments/Pasted image 20240513200710.png"
+              }
+            }
+          },
+          {
             "id": "688a43d67eb4ea54",
             "type": "leaf",
             "state": {
@@ -161,18 +171,17 @@
   },
   "active": "3c31e5f38ef98afd",
   "lastOpenFiles": [
-    "attachments/Pasted image 20240513175919.png",
-    "attachments/Pasted image 20240513175635.png",
-    "attachments/Pasted image 20240513175616.png",
-    "attachments/Pasted image 20240513175205.png",
-    "attachments/Pasted image 20240513171253.png",
-    "attachments/Pasted image 20240513171154.png",
-    "attachments/Pasted image 20240513153919.png",
-    "attachments/Pasted image 20240513153044.png",
-    "attachments/Pasted image 20240513153005.png",
-    "attachments/Pasted image 20240513152930.png",
-    "attachments/Pasted image 20240513152808.png",
+    "attachments/Pasted image 20240513200710.png",
     "突破5道关卡.md",
+    "attachments/Pasted image 20240513200619.png",
+    "attachments/Pasted image 20240513200614.png",
+    "attachments/Pasted image 20240513200547.png",
+    "attachments/Pasted image 20240513200524.png",
+    "attachments/Pasted image 20240513200415.png",
+    "attachments/Pasted image 20240513200342.png",
+    "attachments/Pasted image 20240513200146.png",
+    "attachments/Pasted image 20240513200130.png",
+    "attachments/Pasted image 20240513200108.png",
     "总结性记忆.md",
     "attachments"
   ]
