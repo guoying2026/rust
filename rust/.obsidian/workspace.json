@@ -20,26 +20,6 @@
             }
           },
           {
-            "id": "dc2880a0152dc65b",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20240512162328.png"
-              }
-            }
-          },
-          {
-            "id": "2a927d0980ab7e4f",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "attachments/Pasted image 20240512144227.png"
-              }
-            }
-          },
-          {
             "id": "688a43d67eb4ea54",
             "type": "leaf",
             "state": {
@@ -181,18 +161,19 @@
   },
   "active": "3c31e5f38ef98afd",
   "lastOpenFiles": [
-    "attachments/Pasted image 20240512162328.png",
+    "attachments/Pasted image 20240513175919.png",
+    "attachments/Pasted image 20240513175635.png",
+    "attachments/Pasted image 20240513175616.png",
+    "attachments/Pasted image 20240513175205.png",
+    "attachments/Pasted image 20240513171253.png",
+    "attachments/Pasted image 20240513171154.png",
+    "attachments/Pasted image 20240513153919.png",
+    "attachments/Pasted image 20240513153044.png",
+    "attachments/Pasted image 20240513153005.png",
+    "attachments/Pasted image 20240513152930.png",
+    "attachments/Pasted image 20240513152808.png",
     "突破5道关卡.md",
-    "attachments/Pasted image 20240512162222.png",
-    "attachments/Pasted image 20240512161141.png",
-    "attachments/Pasted image 20240512160656.png",
-    "attachments/Pasted image 20240512160417.png",
     "总结性记忆.md",
-    "attachments/Pasted image 20240512150645.png",
-    "attachments/Pasted image 20240512150625.png",
-    "attachments/Pasted image 20240512150516.png",
-    "attachments/Pasted image 20240512150306.png",
-    "attachments/Pasted image 20240512150024.png",
     "attachments"
   ]
 }
